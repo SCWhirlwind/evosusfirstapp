@@ -1,6 +1,6 @@
 # evosus_first_app
 
-A new Flutter project.
+Take-home project for Evosus
 
 ## Getting Started
 
